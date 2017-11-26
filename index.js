@@ -1,2 +1,3 @@
-function shout9string) {
-}}
+function shout(String) {
+return string.toUpperCase()
+}
